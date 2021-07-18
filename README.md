@@ -9,7 +9,7 @@ This function takes a blif file as input and generates a topological ordering of
 
 This function takes a blif file and starting logic value vector as input and propogates the values to the ouput of the circuit.  
 
-## Usage
+## How to Use the Simulator
 Run the makefile to compile.
 
 ### main.cpp
