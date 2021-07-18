@@ -14,7 +14,7 @@ Run the makefile to compile.
 
 ### main.cpp
 This file contains the general wrapper on how to use the executable. There is a -help option built
-in. To see the usage, type ```./circuit_sim -help```
+in. To see the usage: ```./circuit_sim -help```
 ### truthTable.h and truthTable.cpp
 These two files store the underlying infrastructure for representing a truth table. Each entry stored
 represents a cover for the logic function.
